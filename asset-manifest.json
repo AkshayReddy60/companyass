@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/companyass/static/css/main.8afc2304.css",
+    "main.js": "/companyass/static/js/main.989d637e.js",
+    "static/js/488.561126b8.chunk.js": "/companyass/static/js/488.561126b8.chunk.js",
+    "index.html": "/companyass/index.html",
+    "main.8afc2304.css.map": "/companyass/static/css/main.8afc2304.css.map",
+    "main.989d637e.js.map": "/companyass/static/js/main.989d637e.js.map",
+    "488.561126b8.chunk.js.map": "/companyass/static/js/488.561126b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8afc2304.css",
+    "static/js/main.989d637e.js"
+  ]
+}
