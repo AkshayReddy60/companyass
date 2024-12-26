@@ -1,0 +1,107 @@
+/* Responsive Design */
+.piccc {
+  height: 60px;
+  width: 200px;
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 768px) {
+  .hellloo {
+    width: 100%;
+    margin: 1rem;
+  }
+
+  .piccc {
+    width: 200px;
+    margin: 0 auto;
+  }
+}
+.cooo {
+ 
+  min-height: auto;
+}
+
+.bside {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.hellloo {
+  width: 83%;
+  max-height: auto;
+  margin: 1.5rem;
+}
+
+.jjjj {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: 0;
+}
+
+.pppp {
+  font-size: 1rem;
+  color: #6c757d;
+  margin: 0.5rem 0 0;
+}
+
+.lefsi {
+  display: flex;
+  gap: 10px;
+}
+.sear{
+  width: 300px;
+  height:50px ;
+  margin: 0.5rem;
+}
+
+.flll {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 0.5rem;
+}
+
+.title {
+  font-size: 1.25rem;
+  font-weight: bold;
+  margin: 0;
+}
+
+.status {
+  font-size: 0.85rem;
+  padding: 0.2rem 0.5rem;
+  color: #007bff;
+  border: 1px solid #007bff;
+  border-radius: 15px;
+  background-color: rgba(0, 123, 255, 0.1);
+}
+
+.downfll {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  margin-top: 0.5rem;
+}
+
+.language {
+  display: flex;
+  align-items: center;
+  font-size: 0.9rem;
+  color: #495057;
+}
+
+.dottt {
+  width: 8px;
+  height: 8px;
+  background-color: #007bff;
+  border-radius: 50%;
+  display: inline-block;
+  margin-left: 8px;
+}
+
+.size,
+.updated {
+  font-size: 0.9rem;
+  color: #6c757d;
+}
